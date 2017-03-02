@@ -1,5 +1,4 @@
-# OS Lab 2 // May, Taylor - ID: 101516431
-
+# OS Lab 2 // May, Taylor
 ## Introduction
 
 > This is based on the requirements set in the lab2 pdf
